@@ -15,4 +15,4 @@ notion页面笔记结构如下：
 ｜_________这是index页面的一些文字记录，但是不会进入目录(para)
 
 这是result.md导入到notion后，并且添加/content目录的样式
-![img.png](img.png)
+![img.jpg](img.jpg)
