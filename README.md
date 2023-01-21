@@ -1,5 +1,5 @@
 # NoteTree_From_notion
-
+v1.1
 ## 是什么？
 一个由go编写的，通过notion api + json + markdown对notion生成笔记目录，只需要填入token和希望生成“纵深极大”的目录的首页ID，即可生成格式化的目录，方便进行笔记查找
 目前仅支持subpage的无限嵌套
