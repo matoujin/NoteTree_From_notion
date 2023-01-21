@@ -18,7 +18,7 @@ type notes struct {
 }
 
 var Notelist = map[string]*notes{}
-var token = "secret_XXXXXXXXXXXXXXXXXXXX"
+var token = "secret_XXXXXXXXXXXX"
 
 func SBlockChildren(blockId string) {
 
